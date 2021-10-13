@@ -11145,6 +11145,9 @@
         <layout>Test__c-Test Layout</layout>
     </layoutAssignments>
     <layoutAssignments>
+        <layout>Testing__c-Testing Layout</layout>
+    </layoutAssignments>
+    <layoutAssignments>
         <layout>User-User Layout</layout>
     </layoutAssignments>
     <layoutAssignments>
