@@ -78,6 +78,7 @@
             <operator>equals</operator>
             <value>Cindy Central</value>
         </criteriaItems>
+        <language>en_US</language>
     </filter>
     <format>Matrix</format>
     <groupingsAcross>
