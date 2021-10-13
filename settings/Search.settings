@@ -2,7 +2,7 @@
 <SearchSettings xmlns="http://soap.sforce.com/2006/04/metadata">
     <documentContentSearchEnabled>true</documentContentSearchEnabled>
     <enableAdvancedSearchInAlohaSidebar>false</enableAdvancedSearchInAlohaSidebar>
-    <enableEinsteinSearchPersonalization>false</enableEinsteinSearchPersonalization>
+    <enableEinsteinSearchPersonalization>true</enableEinsteinSearchPersonalization>
     <enablePersonalTagging>false</enablePersonalTagging>
     <enablePublicTagging>false</enablePublicTagging>
     <enableSetupSearch>true</enableSetupSearch>
@@ -247,6 +247,12 @@
             <enhancedLookupEnabled>false</enhancedLookupEnabled>
             <lookupAutoCompleteEnabled>false</lookupAutoCompleteEnabled>
             <name>ListEmail</name>
+            <resultsPerPageCount>25</resultsPerPageCount>
+        </searchSettingsByObject>
+        <searchSettingsByObject>
+            <enhancedLookupEnabled>false</enhancedLookupEnabled>
+            <lookupAutoCompleteEnabled>false</lookupAutoCompleteEnabled>
+            <name>Location</name>
             <resultsPerPageCount>25</resultsPerPageCount>
         </searchSettingsByObject>
         <searchSettingsByObject>
