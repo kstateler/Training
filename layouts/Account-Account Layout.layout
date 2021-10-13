@@ -27,11 +27,13 @@
             </layoutItems>
             <layoutItems>
                 <behavior>Edit</behavior>
+
                 <field>Company_LinkedIn_Page__c</field>
             </layoutItems>
             <layoutItems>
                 <behavior>Edit</behavior>
                 <field>Training__c</field>
+
             </layoutItems>
         </layoutColumns>
         <layoutColumns>
